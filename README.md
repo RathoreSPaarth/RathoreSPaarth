@@ -24,7 +24,7 @@
         <h3>Find me at : </h3>
         <a href = "https://www.linkedin.com/in/paarth-s-rathore/" target = "_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin.png"/> </a>
         <a href = "https://www.hackerrank.com/RA1711003010304" target = "_blank"><img src="https://img.icons8.com/windows/48/000000/hackerrank.png"/> </a>
-       <a href = "paarthsinghrathore1@gmail.com" target = "_blank"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png"/> </a>
+       <a href = "mailto: paarthsinghrathore1@gmail.com" target = "_blank"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png"/> </a>
       </div>
   </body>
 </html>
