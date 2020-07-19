@@ -3,6 +3,28 @@
   <body>
     <div>
       <h1>Hello World, I'm Paarth!</h1>
-    </div>
+      <hr>
+      <h3> FULL STACK WEB DEVELOPER </h3>
+       <hr>
+        <h2> Stack : M E R N </h2> 
+          <h2> Tech I use: </h2>
+            <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+           <img src="https://img.icons8.com/color/48/000000/css3.png"/> 
+         <img src="https://img.icons8.com/color/48/000000/javascript.png"/> 
+          <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
+          <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+        <img src="https://img.icons8.com/officel/48/000000/react.png"/> 
+        <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+           <div>
+        <h3> Currently working on : <a href = "https://github.com/RathoreSPaarth/OCR-JS"> Packaged Food Nutrition using OCR </a> </h3>
+          <h3> Check out this <a href = "https://codesandbox.io/s/github/RathoreSPaarth/TeacherManagement-CRUD"> CRUD Project </a> [DB UNDER-DEVELOPMENT]</h3>
+             <h3> Try out these projects : <a href = "https://friendly-heisenberg-1c76a4.netlify.app/">Vocal For Local</a> & <a href = "https://hardcore-villani-5e25f6.netlify.app/"> OMBD Movies API</a>  [raise issues, if any]</h3>
+      </div>
+      <div>
+        <h3>Find me at : </h3>
+        <a href = "https://www.linkedin.com/in/paarth-s-rathore/" target = "_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin.png"/> </a>
+        <a href = "https://www.hackerrank.com/RA1711003010304" target = "_blank"><img src="https://img.icons8.com/windows/48/000000/hackerrank.png"/> </a>
+       <a href = "paarthsinghrathore1@gmail.com" target = "_blank"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png"/> </a>
+      </div>
   </body>
 </html>
