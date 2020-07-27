@@ -17,7 +17,7 @@
         <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
            <div>
         <h3> Currently working on : <a href = "https://github.com/RathoreSPaarth/OCR-JS"> Packaged Food Nutrition using OCR </a> </h3>
-          <h3> Check out this <a href = "https://codesandbox.io/s/github/RathoreSPaarth/TeacherManagement-CRUD"> CRUD Project </a> [DB UNDER-DEVELOPMENT]</h3>
+          <h3> Check out this <a href = "https://codesandbox.io/s/github/RathoreSPaarth/BusBookingSystem-CRUD"> CRUD Project </a> </h3>
              <h3> Try out these projects : <a href = "https://friendly-heisenberg-1c76a4.netlify.app/">Vocal For Local</a> & <a href = "https://hardcore-villani-5e25f6.netlify.app/"> OMBD Movies API</a>  [raise issues, if any]</h3>
       </div>
       <div>
