@@ -20,12 +20,13 @@
           <h3> Check out this <a href = "https://codesandbox.io/s/github/RathoreSPaarth/TeacherManagement-CRUD"> CRUD Project </a> </h3>
              <h3> Try out these projects : <a href = "https://friendly-heisenberg-1c76a4.netlify.app/">Vocal For Local</a> | <a href = "https://hardcore-villani-5e25f6.netlify.app/"> OMBD Movies API</a>  [raise issues, if any] | <a href = "https://calm-earth-52448.herokuapp.com/"> Ticket Booking</a> [ExpressJS Project]  </h3>
       </div>
+      <h3> Collaborative Project : <a href = "https://github.com/RathoreSPaarth/PeerProjectForum"> Peer Project Forum </a> </h3>
       <div>
         <h3>Find me at : </h3>
         <a href = "https://www.linkedin.com/in/paarth-s-rathore/" target = "_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin.png"/> </a>
         <a href = "https://www.hackerrank.com/RA1711003010304" target = "_blank"><img src="https://img.icons8.com/windows/48/000000/hackerrank.png"/> </a>
        <a href = "mailto: paarthsinghrathore1@gmail.com" target = "_blank"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png"/> </a>
       </div>
-      <h3> Collaborative Project : <a href = "https://github.com/RathoreSPaarth/PeerProjectForum"> Peer Project forum </a> </h3>
+      <h3> Collaborative Project : <a href = "https://github.com/RathoreSPaarth/PeerProjectForum"> Peer Project Forum </a> </h3>
   </body>
 </html>
