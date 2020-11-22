@@ -27,6 +27,5 @@
         <a href = "https://www.hackerrank.com/RA1711003010304" target = "_blank"><img src="https://img.icons8.com/windows/48/000000/hackerrank.png"/> </a>
        <a href = "mailto: paarthsinghrathore1@gmail.com" target = "_blank"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png"/> </a>
       </div>
-      <h3> Collaborative Project : <a href = "https://github.com/RathoreSPaarth/PeerProjectForum"> Peer Project Forum </a> </h3>
   </body>
 </html>
