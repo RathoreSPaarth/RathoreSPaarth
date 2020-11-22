@@ -18,7 +18,7 @@
            <div>
         <h3> Currently working on : <a href = "https://github.com/RathoreSPaarth/OCR-JS"> Packaged Food Nutrition using OCR </a> </h3>
           <h3> Check out this <a href = "https://codesandbox.io/s/github/RathoreSPaarth/BusBookingSystem-CRUD"> CRUD Project </a> </h3>
-             <h3> Try out these projects : <a href = "https://friendly-heisenberg-1c76a4.netlify.app/">Vocal For Local</a> & <a href = "https://hardcore-villani-5e25f6.netlify.app/"> OMBD Movies API</a>  [raise issues, if any]</h3>
+             <h3> Try out these projects : <a href = "https://friendly-heisenberg-1c76a4.netlify.app/">Vocal For Local</a> | <a href = "https://hardcore-villani-5e25f6.netlify.app/"> OMBD Movies API</a>  [raise issues, if any] | <a href = "https://calm-earth-52448.herokuapp.com/"> Ticket Booking</a> [ExpressJS Project]  </h3>
       </div>
       <div>
         <h3>Find me at : </h3>
