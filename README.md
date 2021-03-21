@@ -3,8 +3,6 @@
   <body>
     <div>
       <h1>Hello World, I'm Paarth!</h1>
-      <hr>
-      <h3> FULL STACK WEB DEVELOPER </h3>
        <hr>
             <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
            <img src="https://img.icons8.com/color/48/000000/css3.png"/> 
